@@ -1,5 +1,5 @@
 # rayrender 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue)[(https://github.com/lomichael/rayrender/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/lomichael/rayrender/LICENSE)
 [![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
 
 A raycaster and raytracer written in C.
