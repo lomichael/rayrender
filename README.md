@@ -4,18 +4,24 @@
 
 A raycaster and raytracer written in C.
 
-> **DISCLAIMER**: This is a work-in-progress hobby project. Use at your own risk.
+> **DISCLAIMER**: This is a hobby project and a work-in-progress.
 
-## Prerequisities
+## Build
+rayrender has been tested on Debian Linux.
+
+Prerequisites: 
+- git
+- gcc
 - GLFW3
-- C
 
-## Compilation
+To clone the repository and build the app:
 ```sh
+git clone https://codeberg.org/lomichael/rayrender
 gcc main.c -o demo -lglfw -lGL -lm
 ```
 
 ## Usage
+**Run the demo raycaster**:
 ```sh
 ./demo
 ```
